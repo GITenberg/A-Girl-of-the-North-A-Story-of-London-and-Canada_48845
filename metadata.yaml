@@ -1,4 +1,8 @@
 _repo: A-Girl-of-the-North-A-Story-of-London-and-Canada_48845
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48845-h/images/cover.jpg
 creator:
   author:
     agent_name: Jones, Susan Morrow
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '32543'
     url: http://www.gutenberg.org/2009/agents/32543
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48845#A-Girl-of-the-North-A-Story-of-London-and-Canada
 gutenberg_issued: '2015-05-01'
 gutenberg_type: Text
 identifiers:
